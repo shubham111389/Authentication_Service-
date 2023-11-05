@@ -7,7 +7,7 @@
     "dev": "npx nodemon src/index.js",
     "start": "npx nodemon src/index.js"
   },
-  "author": "Shubham",
+  "author": "Shubham ",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
